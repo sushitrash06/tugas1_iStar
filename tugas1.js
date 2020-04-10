@@ -11,5 +11,7 @@ hasil1 = parseInt(a);
 hasil2 = parseInt(b);
 hasila = typeof(hasil1);
 hasilb = typeof(hasil2);
+a = 9+"8"
+console.log(a);
 console.log('Tipe data setelah di ubah : '+hasila);
 console.log('Tipe data setelah di ubah : '+hasilb);
