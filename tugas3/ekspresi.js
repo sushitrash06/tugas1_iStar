@@ -19,3 +19,4 @@ var c = a / b;
 console.log(`${a} / ${b} = ${c} `);
 } catch (e) { console.log(e.getMessage());
 }
+ 
