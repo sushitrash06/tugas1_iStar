@@ -6,7 +6,7 @@ class Segitiga {
     // mendefinisikan alas dan tinggi this.alas = a; this.tingi = t;
     } luas() { 
         return this.alas * this.tinggi / 2;
-    }
+    } 
     }
     var a = parseFloat(readline.question(' Masukan nilai a: '));
     var t = parseFloat(readline.question(' Masukan nilai b: '));
